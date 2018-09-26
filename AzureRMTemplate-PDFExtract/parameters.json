@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_PDFExtract_name": {
+            "value": null
+        },
+        "searchServices_botdemo_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "components_PDFExtract_b072_name": {
+            "value": null
+        },
+        "serverfarms_ServicePlan0c5a3bc7_98af_name": {
+            "value": null
+        },
+        "storageAccounts_pdftestingstoragge_name": {
+            "value": null
+        },
+        "alertrules_Failure_Anomalies___PDFExtract_b072_name": {
+            "value": null
+        },
+        "hostNameBindings_pdfextract.azurewebsites.net_name": {
+            "value": null
+        }
+    }
+}
